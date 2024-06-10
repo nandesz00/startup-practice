@@ -1,2 +1,0 @@
-# startup-practice
-ZTM Practice 
